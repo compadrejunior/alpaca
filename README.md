@@ -6,8 +6,8 @@ Stanford Alpaca is an open-source language model developed by computer scientist
 
 ## Requirements
 
-- [Node.js](https://nodejs.org/en)
-- [Download Python](https://www.python.org/downloads/)
+- [Python 3.11](https://www.python.org/downloads/)
+- [Node.js >=18.0.0](https://nodejs.org/en)
 
 ## Installation
 
