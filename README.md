@@ -27,3 +27,4 @@ Stanford Alpaca is an open-source language model developed by computer scientist
 3. [Stanford CRFM](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 4. [Train and run Stanford Alpaca on your own machine - Replicate – Replicate](https://replicate.com/blog/replicate-alpaca)
 5. [tatsu-lab/stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data. (github.com)](https://github.com/tatsu-lab/stanford_alpaca)
+6. [cocktailpeanut/dalai: The simplest way to run LLaMA on your local machine (github.com)](https://github.com/cocktailpeanut/dalai)
