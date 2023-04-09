@@ -10,7 +10,7 @@ Stanford Alpaca is an open-source language model developed by computer scientist
 - [Node.js >= 18](https://nodejs.org/en/download)
 - [Python 3](https://www.python.org/downloads/)
 
-## Installation and Usage
+## Option 1: Local installation and sage
 
 The following steps will help you run Standford Alpaca AI model using Dalai tools **(6)**.
 If you rather see video instructions check this link [LLaMA & Alpaca: “ChatGPT” On Your Local Computer 🤯 | Tutorial](https://www.youtube.com/watch?v=kT_-qUxrlOU&ab_channel=MartinThissen)
@@ -41,7 +41,25 @@ If you rather see video instructions check this link [LLaMA & Alpaca: “ChatGPT
 
     ![Dalai Answer](./browser-02.png)
 
+## Option 2: Using Docker
 
+1. Build container docker compose.
+
+    ```bash
+    docker compose build
+    ```
+
+2. Install Models.
+
+    ```bash
+    docker compose run dalai npx dalai alpaca install 7B # or a different model
+    ```
+
+3. Run the server.
+
+    ```bash
+    docker compose up -d
+    ```
 ## References
 
 1. [Stanford takes costly, risky Alpaca AI model offline • The Register](https://www.theregister.com/2023/03/21/stanford_ai_alpaca_taken_offline/)
