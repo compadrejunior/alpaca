@@ -12,7 +12,8 @@ Stanford Alpaca is an open-source language model developed by computer scientist
 
 ## Installation and Usage
 
-The following steps will help you run Standford Alpaca AI model using Dalai tools **(6)**. 
+The following steps will help you run Standford Alpaca AI model using Dalai tools **(6)**.
+If you rather see video instructions check this link [LLaMA & Alpaca: “ChatGPT” On Your Local Computer 🤯 | Tutorial](https://www.youtube.com/watch?v=kT_-qUxrlOU&ab_channel=MartinThissen)
 
 1. Download and install system requirements.
 
@@ -30,6 +31,10 @@ The following steps will help you run Standford Alpaca AI model using Dalai tool
     npx serve
     ```
 4. Open Dalai on your brower: http://localhost:3000
+
+5. Select the type of chat prompt and start using Dalai. 
+
+    ![Dalai Browser](./browser-01.png)
 ## References
 
 1. [Stanford takes costly, risky Alpaca AI model offline • The Register](https://www.theregister.com/2023/03/21/stanford_ai_alpaca_taken_offline/)
