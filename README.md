@@ -33,7 +33,7 @@ If you rather see video instructions check this link [LLaMA & Alpaca: “ChatGPT
 
 4. Open Dalai on your brower: http://localhost:3000
 
-5. Select the type of chat prompt and start using Dalai. 
+5. Select the type of chat prompt and start using Dalai.
 
     ![Dalai Browser](./browser-01.png)
 
@@ -60,6 +60,7 @@ If you rather see video instructions check this link [LLaMA & Alpaca: “ChatGPT
     ```bash
     docker compose up -d
     ```
+
 ## References
 
 1. [Stanford takes costly, risky Alpaca AI model offline • The Register](https://www.theregister.com/2023/03/21/stanford_ai_alpaca_taken_offline/)
